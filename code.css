@@ -3,7 +3,7 @@
 }
 /* Header Section */
 .header-title{
-    background-image: url(/images/banner/banner2.png);
+    background-image: url(./images/banner/banner2.png);
     background-repeat: no-repeat;
     background-size: 1902px;
     height: 1100px;
@@ -113,7 +113,7 @@
 }
 
 .contact{
-    background-image: url(/images/gradient2.png),url(/images/watch.png);
+    background-image: url(./images/gradient2.png),url(./images/watch.png);
     background-repeat: no-repeat,no-repeat;
     margin-left: 372px;
     margin-top: 120px;
